@@ -1,0 +1,24 @@
+body{
+    background-color: bisque;
+    background-image: url(https://miro.medium.com/max/3000/0*OsIEt7Ru1m9AH54l);
+    background-repeat: no-repeat;
+    background-position:center;
+}
+
+.we{
+    position:unset;
+    padding: 2px;
+    padding: 4%;
+    width: 50%;
+    height: 70%;
+    background-position:center;
+    
+    
+}
+.ww{
+    background-color: rgb(109, 50, 205);
+}
+
+.rr{
+    background-color: yellow;
+}
